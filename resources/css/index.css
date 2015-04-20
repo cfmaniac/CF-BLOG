@@ -1,0 +1,82 @@
+/* default css */
+
+body {
+	font-family: Verdana, sans-serif;
+	font-size: small;
+}
+
+h1 {
+	font-size: 16pt;
+}
+
+h2 {
+	font-size: 13pt;	
+}
+
+h3 {
+	font-size: 11pt;
+}
+
+div.header {
+	background-color: #ccc;
+	padding: 3px;
+}
+
+div.header ul {
+	list-style: none;
+	padding: 0px;
+	marging: 0px;
+}
+
+div.header ul li {
+	display: inline;
+	padding: 3px;
+	font-weight: bold;
+}
+
+/* form bits */
+label, input, select, textarea {
+	display: block;
+}
+
+form ul {
+	list-style: none;
+	margin: 0px;
+	padding: 10px 0px 10px 15px;
+}
+
+form ul li input {
+	display: inline;
+}
+
+div#categories {
+	float: right;
+	border: 1px solid #ccc;
+	padding: 10px; 
+}
+
+/* post stuff */
+div.post h2 {
+	padding: 0px;
+	margin: 0px;
+}
+
+div.post div.postDate {
+	font-size: x-small;
+}
+
+div#categories ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* tables */
+form table {
+	border: 1px solid #AAA;
+	width: 40%;
+}
+
+form table td {
+	text-align: center;
+}
