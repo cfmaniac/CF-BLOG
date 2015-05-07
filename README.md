@@ -10,3 +10,5 @@ http://www.aliaspooryorik.com/blog/index.cfm/e/posts.details/post/cf9-orm-blog-s
     
 #Current Version:
 -2.0.0
+
+Tested on ColdFusion 9+, Railo 4
